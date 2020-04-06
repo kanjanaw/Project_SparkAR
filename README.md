@@ -3,26 +3,7 @@
 เริ่มต้นด้วยตัวละครจะมีค่าชีวิต 3 ชีวิต ตัวเกมจะดำเนินโดยให้ตัวละครวิ่งกระโดดผ่านเชื้อโรคและไวรัสต่างๆ ด้วยการอ้าปาก-ปิดปาก<br>
 เมื่อตัวละครสามารถกระโดดข้ามเชื้อโรคและไวรัสได้ คะแนนจะเพิ่มขึ้น แต่ถ้าหากกระโดดข้ามไม่ผ่าน หรือวิ่งชนกับเชื้อโรคและไวรัส ค่าชีวิตจะหักไปครั้งละ 1 ชีวิต</p>
 
-Skip to content
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@kanjanaw 
-kanjanaw
-/
-Project_SparkAR
-1
-00
- Code Issues 0 Pull requests 0 Actions Projects 0 Wiki Security Insights Settings
-Project_SparkAR/index.html
-@kanjanaw kanjanaw Add files via upload
-754a725 1 hour ago
-331 lines (299 sloc)  10.2 KB
-  
 <!DOCTYPE html>
 <html>
 <head>
